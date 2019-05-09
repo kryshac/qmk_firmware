@@ -42,7 +42,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
                       KC_DOWN, KC_UP ,                                                         KC_LBRC,KC_RBRC,
                                RAISE , KC_SPC,                                         KC_ENT , LOWER ,
                                        KC_LSFT,KC_LEFT,                        KC_RGHT,KC_RSFT,
-                                       RAISE  , KC_DEL,                        KC_LGUI,KC_LALT
+                                       KC_BSPC, KC_DEL,                        KC_LGUI,KC_LALT
   ),
 
   [_LOWER] = LAYOUT_5x6(
