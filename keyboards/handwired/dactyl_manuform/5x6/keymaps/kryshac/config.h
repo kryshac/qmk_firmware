@@ -21,6 +21,10 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 #define USE_SERIAL
 
+// change layout
+// sudo systemctl stop ModemManager.service
+// make handwired/dactyl_manuform/5x6:kryshac:avrdude
+
 #define MASTER_LEFT
 // #define MASTER_RIGHT
 //#define EE_HANDS
