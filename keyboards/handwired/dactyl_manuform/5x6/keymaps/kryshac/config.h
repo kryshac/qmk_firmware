@@ -22,6 +22,10 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define USE_SERIAL
 
 // change layout
+// sudo usermod -a -G uucp ccazacu
+// sudo usermod -a -G lock ccazacu
+// reboot
+// ? sudo chmod a+rw /dev/ttyACM0
 // sudo systemctl stop ModemManager.service
 // make handwired/dactyl_manuform/5x6:kryshac:avrdude
 
